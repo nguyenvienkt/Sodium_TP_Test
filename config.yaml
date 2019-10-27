@@ -1,6 +1,6 @@
-baseURL : https://demo.uicard.io/hugo-sodium/
+baseURL : 
 languageCode : en-us
-title : Sodium
+title : Sodium Title
 #theme : sodium
 
 taxonomies:
